@@ -14,20 +14,28 @@ https://youtu.be/6Y3vohi8WqI
 # EDITS:
 
 List of materials:
+
 Bearing MF115ZZ:
 https://www.aliexpress.com/item/1005007978162977.html
+
 Google cardboard googles:
 https://www.aliexpress.com/item/1005006466981096.html
+
 C-Mount extension tubes:
 https://www.aliexpress.com/item/1005005382163574.html
+
 Optical endstop sensor:
 https://www.aliexpress.com/item/1005002219411174.html
+
 Aluminium rod 12mmx300mm:
 https://www.aliexpress.com/item/1005007360272645.html
+
 Magnets 6x2mm:
 https://www.aliexpress.com/item/1005008053185179.html
+
 Motor 5V 4-Phase 28BYJ-48 DC Gear Step Stepper Motor+ULN2003 Driver Board:
 https://www.aliexpress.com/item/1005006239720269.html
+
 24mm Led:
 https://www.aliexpress.com/item/1005006126055318.html
 
