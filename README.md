@@ -36,7 +36,7 @@ https://www.aliexpress.com/item/1005008053185179.html
 Motor 5V 4-Phase 28BYJ-48 DC Gear Step Stepper Motor+ULN2003 Driver Board:
 https://www.aliexpress.com/item/1005006239720269.html
 
-24mm Led:
+24mm LED, white or warm white:
 https://www.aliexpress.com/item/1005006126055318.html
 
 # STL Changes
