@@ -39,6 +39,12 @@ https://www.aliexpress.com/item/1005006239720269.html
 24mm LED, white or warm white:
 https://www.aliexpress.com/item/1005006126055318.html
 
+HD CS 5-50mm Varifocal Lens Industrial 30fps 4K 8MP CCD IMX415 USB Webcam:
+https://www.aliexpress.com/item/1005008657226691.html
+
+Extension tubes:
+https://www.aliexpress.com/item/1005004909394341.html
+
 # STL Changes
 
 merged Reelsupport v17 with helical ring gear -> v18
