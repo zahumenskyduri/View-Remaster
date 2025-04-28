@@ -48,21 +48,24 @@ https://www.aliexpress.com/item/1005004909394341.html
 
 # Connection:
 
-VCC (5V) <> Led+
-         <> Sensor V
-         <> Stepper 5V+
+         VCC (5V) <> Led+
+                  <> Sensor V
+                  <> Stepper 5V+
+                  
+         GND      <> LED-
+                  <> Sensor G
+                  <> Stepper 5V-
          
-GND      <> LED-
-         <> Sensor G
-         <> Stepper 5V-
+         Data ports:
+         PD02     <> Stepper In1 
+         PD03     <> Stepper In2
+         PD04     <> Stepper In3
+         PD05     <> Stepper In4
+         PD06     <> Sensor S
+         PD07     <> LED in
 
-Data ports:
-PD02     <> Stepper In1 
-PD03     <> Stepper In2
-PD04     <> Stepper In3
-PD05     <> Stepper In4
-PD06     <> Sensor S
-PD07     <> LED in
+
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/3c37552f-7285-439a-ae26-c830aa69db42)
 
 
 
