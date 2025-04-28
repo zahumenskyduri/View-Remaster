@@ -90,8 +90,14 @@ https://www.aliexpress.com/item/1005003057943564.html
 
 # STL Changes
 
-merged Reelsupport v17 with helical ring gear -> v18
+Merged Reelsupport v17 with helical ring gear -> ReelSupport v18.stl
 
-separated helical gear -> v3
+Separated helical gear -> helical gear v3.st l
+
+BearingHolder v4 ddjusted for use with bearing MF115ZZ -> BearingHolder v5_MF115ZZ.stl
+
+MasterReelBase v23 adjusted for use with bearing MF115ZZ and 7bit light (diameter 25mm) -> MasterReelBase v24_MF115ZZ.stl
+
+
 
 
