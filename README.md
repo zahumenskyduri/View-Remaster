@@ -21,9 +21,6 @@ https://www.aliexpress.com/item/1005007978162977.html
 Google cardboard googles:
 https://www.aliexpress.com/item/1005006466981096.html
 
-C-Mount extension tubes:
-https://www.aliexpress.com/item/1005005382163574.html
-
 Optical endstop sensor:
 https://www.aliexpress.com/item/1005002219411174.html
 
@@ -40,11 +37,30 @@ LED Adafruit Industries NeoPixel Jewel - 7 x 5050 RGBW LED w/Integrated Drivers
 or alternative:
 https://www.aliexpress.com/item/1005001693824089.html
 
+         
+         7 bit ws2812:
+         https://www.aliexpress.com/item/1005007268165626.html or https://www.aliexpress.com/item/1005001693824089.html
+         
+         24 Leds ring
+         https://www.aliexpress.com/item/1005002286128420.html
+         
+         Simple 3W 24mm Warm, no Wire
+         https://www.aliexpress.com/item/1005006126055318.html
+         
+
+
 HD CS 5-50mm Varifocal Lens Industrial 30fps 4K 8MP CCD IMX415 USB Webcam:
 https://www.aliexpress.com/item/1005008657226691.html
 
 Extension tubes:
 https://www.aliexpress.com/item/1005004909394341.html
+
+MosFET trigger:
+https://www.aliexpress.com/item/1005008217485311.html
+
+Lamp:
+https://www.aliexpress.com/item/1005003057943564.html
+
 
 # Connection:
 
@@ -63,6 +79,8 @@ https://www.aliexpress.com/item/1005004909394341.html
          PD05     <> Stepper In4
          PD06     <> Sensor S
          PD07     <> LED in
+         PD10     <> Lamp on/off
+         PD11     <> Lamp light temperature
 
 
 ![Untitled Diagram drawio](https://github.com/user-attachments/assets/3c37552f-7285-439a-ae26-c830aa69db42)
