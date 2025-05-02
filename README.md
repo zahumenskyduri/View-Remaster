@@ -96,8 +96,11 @@ Separated helical gear -> helical gear v3.st l
 
 BearingHolder v4 ddjusted for use with bearing MF115ZZ -> BearingHolder v5_MF115ZZ.stl
 
-MasterReelBase v23 adjusted for use with bearing MF115ZZ and 7bit light (diameter 25mm) -> MasterReelBase v24_MF115ZZ.stl
+MasterReelBase adjusted (v26)
 
-
+         # for use with bearing MF115ZZ
+         # 7bit light (diameter 25mm)
+         # bigger holes for M5 bolts
+ 
 
 
